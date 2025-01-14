@@ -42,7 +42,7 @@ La base de datos está dividida en:
 
 ## Planify Landing Page
 
-Aparte de la aplicación principal, estamos trabajando en **Planify-Landing**, un sitio web que promoverá el proyecto. Utilizando **Astro** y **TailwindCSS**, esta landing page brindará información detallada sobre las funcionalidades de la aplicación, su valor diferencial frente a la competencia, y proporcionará acceso directo a la documentación completa en [docs.planify.eduni.dev](https://docs.planify.eduni.dev).
+Aparte de la aplicación principal, estamos trabajando en **Planify-Landing**, un sitio web que promoverá el proyecto. Utilizando **Astro** y **TailwindCSS**, esta landing page brindará información detallada sobre las funcionalidades de la aplicación, su valor diferencial frente a la competencia, y proporcionará acceso directo a la documentación completa en [docs.planify.eduni.dev](https://docs.planify.eduni.dev/docs).
 
 ## Tecnologías utilizadas
 
